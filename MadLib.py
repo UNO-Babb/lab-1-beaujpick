@@ -12,7 +12,7 @@ noun2 = input("Enter a place: ")
 noun3 = input("Enter a noun: ")
 noun4 = input("Enter a place: ")
 noun5 = input("Enter a verb: ")
-noun6= input("Enter a animal: ")
+noun6= input("Enter an animal: ")
   #Print the story with the user supplied words.
 print("I absolutely despise to eat", noun1,".")
 print("I wanted to go to the", noun2,"so I took my favorite", noun3, "with me.")
